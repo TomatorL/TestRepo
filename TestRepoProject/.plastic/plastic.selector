@@ -1,0 +1,4 @@
+repository "TestRepoProject@tj_wechat_os_qy0_pbuvbljyfimhxrf7ce6sy@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
